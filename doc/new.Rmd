@@ -1,0 +1,14 @@
+---
+title: "new"
+author: "Ville"
+date: "7 kesäkuuta 2016"
+output: html_document
+---
+
+this is a new rmd file
+
+
+```{r eval = TRUE, echo=FALSE, error = FALSE, warning=FALSE,message=FALSE,results='asis', tidy=TRUE}```
+
+
+
